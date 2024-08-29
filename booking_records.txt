@@ -1,0 +1,4 @@
+('IR20065', 3, 7, datetime.date(2024, 8, 29), datetime.date(2024, 8, 29), 3, Decimal('2000.00'), Decimal('1080.00'), Decimal('200.00'), Decimal('150.00'), Decimal('5430.00'))
+('LI82747', 1, 6, datetime.date(2024, 8, 27), datetime.date(2024, 8, 27), 3, Decimal('300.00'), Decimal('216.00'), Decimal('200.00'), Decimal('150.00'), Decimal('1466.00'))
+('MA75295', 2, 8, datetime.date(2024, 8, 27), datetime.date(2024, 8, 27), 2, Decimal('100.00'), Decimal('720.00'), Decimal('200.00'), Decimal('150.00'), Decimal('4970.00'))
+('MZ78554', 3, 4, datetime.date(2024, 8, 29), datetime.date(2024, 8, 29), 4, Decimal('200.00'), Decimal('144.00'), Decimal('200.00'), Decimal('150.00'), Decimal('1094.00'))
