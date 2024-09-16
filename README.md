@@ -38,6 +38,6 @@ Room Filtering: Add search and filtering options for customers when viewing room
 Payment Gateway Integration: Extend the system to handle online payments.
 Enhanced UI: Consider developing a GUI for better user experience.
 
-#License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
